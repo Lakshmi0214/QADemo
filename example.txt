@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 fdg
 dfgdfg
 dfdg
@@ -7,6 +8,9 @@ fgdg
 dgdg
 helooo
 
+=======
+helooo
+>>>>>>> Stashed changes
 dgdg
 dgfdg
 gfdgfd
